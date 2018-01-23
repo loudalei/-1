@@ -1,0 +1,32 @@
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe.config
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.pdb
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.xml
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbprojResolveAssemblyReference.cache
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Resources.resources
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbproj.GenerateResource.Cache
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.exe
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.xml
+c:\users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.pdb
+C:\Users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbproj.CoreCompileInputs.cache
+C:\Users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.dll
+C:\Users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\lou19\documents\visual studio 2017\Projects\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.xml
+C:\Users\lou19\Documents\Visual Studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.mgr.resources
+C:\Users\lou19\Documents\Visual Studio 2017\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.NetWorm.resources
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe.config
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\网络爬虫.pdb
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\网络爬虫.xml
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.dll
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.pdb
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\bin\Debug\HtmlAgilityPack.xml
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbprojResolveAssemblyReference.cache
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.NetWorm.resources
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.mgr.resources
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Resources.resources
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbproj.GenerateResource.Cache
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.vbproj.CoreCompileInputs.cache
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.exe
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.xml
+E:\佳源工作\编程\NET\网络爬虫\网络爬虫\obj\Debug\网络爬虫.pdb

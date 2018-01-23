@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfZZBDS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ZZBDS>
+    <strRegex>(?is)\s*charset\s?=\s?([""'])?(?&lt;charset&gt;[^'""]+)([""'])?\b</strRegex>
+    <strDiscribe>匹配charset</strDiscribe>
+    <roOptions>IgnoreCase Multiline</roOptions>
+    <strUrl />
+  </ZZBDS>
+  <ZZBDS>
+    <strRegex>(?is)&lt;td class=td6&gt;(?&lt;tdcontent&gt;.*?)&lt;/td&gt;</strRegex>
+    <strDiscribe>td6</strDiscribe>
+    <roOptions>IgnoreCase Multiline</roOptions>
+    <strUrl>http://www.xgyw.cc/LEGBABY/</strUrl>
+  </ZZBDS>
+  <ZZBDS>
+    <strRegex>(?is)&lt;a[^&gt;]+href\s?=\s?([""']?)(?&lt;href&gt;[^'"" ]+\b?)\1?\s?[^&gt;]*&gt;(?:&lt;[font|b|img].*?&gt;)?\s*(?&lt;text&gt;.+?)\s*&lt;</strRegex>
+    <strDiscribe>获取所有url及其文字</strDiscribe>
+    <roOptions>Singleline</roOptions>
+  </ZZBDS>
+  <ZZBDS>
+    <strRegex>(?is)&lt;a[^&gt;]+href\s?=\s?([""']?)(?&lt;href&gt;[^'"" ]+\b?)\1?\s?[^&gt;]*&gt;.?(?:&lt;img.*?&gt;)+[^&lt;]*&lt;</strRegex>
+    <strDiscribe>获取图片的href</strDiscribe>
+    <roOptions>Singleline</roOptions>
+    <strUrl>http://www.xgyw.cc/LEGBABY/</strUrl>
+  </ZZBDS>
+</ArrayOfZZBDS>
